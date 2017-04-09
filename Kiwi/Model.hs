@@ -1,5 +1,5 @@
 {-#LANGUAGE ExistentialQuantification #-}
-module Model where
+module Kiwi.Model where
 
 import qualified Language.Normandy as N
 import Language.Normandy (Story (..))

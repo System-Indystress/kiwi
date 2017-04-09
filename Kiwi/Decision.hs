@@ -1,6 +1,6 @@
-module Decision where
+module Kiwi.Decision where
 
-import Model
+import Kiwi.Model
 
 import Language.Normandy
 import Data.Text

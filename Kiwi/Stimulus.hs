@@ -1,6 +1,6 @@
 {-# LANGUAGE GADTs #-}
-module Stimulus where
+module Kiwi.Stimulus where
 
-import Decision (Decision(..))
+import Kiwi.Decision (Decision(..))
 
 data Stimulus = ForcedDecision Decision
